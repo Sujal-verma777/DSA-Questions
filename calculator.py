@@ -1,5 +1,6 @@
+# A simple calculator using python.
+
 def calculator():
-    print("Simple Calculator")
     print("Choose operation:")
     print("A - Add (+)")
     print("B - Subtract (-)")
