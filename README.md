@@ -1,2 +1,21 @@
-# DSA-Questions
-# 100 Days of DSA 🚀  This repository tracks my journey of practicing Data Structures and Algorithms consistently.  ## 📌 What you'll find - DSA problems across various topics   - Clean and well-structured solutions   - Approach explanations   - Time &amp; Space Complexity analysis 
+# 100 Days of DSA 🚀
+
+This repository documents my journey of practicing Data Structures and Algorithms using Python.
+
+## 📌 What you'll find
+- DSA problems from platforms like LeetCode  
+- Clean and readable Python solutions  
+- Approach explanations  
+- Time & Space Complexity analysis  
+
+## 🧠 Focus
+- Understanding patterns and concepts  
+- Writing optimized and clean code  
+- Improving problem-solving skills  
+
+## 🎯 Goal
+To build strong DSA fundamentals, stay consistent, and prepare for coding interviews.
+
+---
+
+Consistency > Motivation 💪
