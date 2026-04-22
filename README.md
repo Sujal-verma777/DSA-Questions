@@ -18,4 +18,5 @@ To build strong DSA fundamentals, stay consistent, and prepare for coding interv
 
 ---
 
-Consistency > Motivation 💪
+DAY 1: Simple Calculator.
+DAY 2: Basic and Most Used Python Functions/Methods
