@@ -48,13 +48,13 @@
 
 
 # -----Check if a number is positive even, positive odd, negative or zero
-# num = int(input())
+num = int(input())
 
-# if num % 2 == 0 and num > 0:
-#     print("Positive Even")
-# elif num % 2 != 0 and num > 0:
-#     print("Positive Odd")
-# elif num < 0:
+if num % 2 == 0 and num > 0:
+    print("Positive Even")
+elif num % 2 != 0 and num > 0:
+    print("Positive Odd")
+elif num < 0:
 #     print("Negative Number")
 # else:
 #     print("Zero")
