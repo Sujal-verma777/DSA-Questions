@@ -19,5 +19,6 @@ To build strong DSA fundamentals, stay consistent, and prepare for coding interv
 ---
 
 DAY 1: Simple Calculator.
-DAY 2: Basic and Most Used Python Functions/Methods
+DAY 2: Basic and Most Used Python Functions/Methods.
 Day 3: Operators with question and code.
+Day 4: Conditional Statements and loop.
