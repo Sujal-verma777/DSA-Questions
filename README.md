@@ -23,3 +23,4 @@ DAY 2: Basic and Most Used Python Functions/Methods.
 Day 3: Operators with question and code.
 Day 4: Conditional Statements and loop.
 Day 5: Question practice.
+Day 6: Functions in Python
