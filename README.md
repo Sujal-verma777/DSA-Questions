@@ -24,3 +24,4 @@ Day 3: Operators with question and code.
 Day 4: Conditional Statements and loop.
 Day 5: Question practice.
 Day 6: Functions in Python
+Day 7: srting with its questions.
