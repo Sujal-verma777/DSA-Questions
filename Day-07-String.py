@@ -1,10 +1,5 @@
-# =========================
 # DAY 7 : STRINGS IN PYTHON
-# =========================
-
-# -------------------------
 # 1. String Basics
-# -------------------------
 
 name = "Sujal"
 print(name)
@@ -15,22 +10,14 @@ c = """Hello"""
 
 print(a,b,c)
 
-
-# -------------------------
 # 2. Indexing
-# -------------------------
-
 s="Python"
 
 print(s[0])
 print(s[2])
 print(s[-1])
 
-
-# -------------------------
 # 3. Slicing
-# -------------------------
-
 print(s[0:3])
 print(s[2:5])
 print(s[:4])
@@ -39,10 +26,7 @@ print(s[::2])
 print(s[::-1])
 
 
-# -------------------------
 # 4. String Operations
-# -------------------------
-
 a="Hello"
 b="World"
 
@@ -53,14 +37,9 @@ print("Hi"*3)
 print("Py" in "Python")
 
 
-# -------------------------
 # 5. String Functions
-# -------------------------
-
 print(len("Python"))
-
 s="python"
-
 print(s.upper())
 print(s.lower())
 
@@ -77,20 +56,13 @@ s="banana"
 print(s.count("a"))
 
 
-# -------------------------
 # 6. Loop Through String
-# -------------------------
-
 s="Python"
-
 for ch in s:
     print(ch)
 
 
-# -------------------------
 # 7. Palindrome Check
-# -------------------------
-
 word="madam"
 
 if word==word[::-1]:
@@ -99,9 +71,7 @@ else:
     print("Not Palindrome")
 
 
-# -------------------------
-# Practice Problems
-# -------------------------
+#----------------- Practice Problems-----------------
 
 # Count vowels
 
@@ -139,10 +109,7 @@ text="banana"
 print("Count of a =",text.count("a"))
 
 
-# -------------------------
 # Anagram Check
-# -------------------------
-
 a="listen"
 b="silent"
 
@@ -152,10 +119,8 @@ else:
     print("Not Anagram")
 
 
-# -------------------------
 # Mini Project
 # Password Checker
-# -------------------------
 
 password="mypassword123"
 
@@ -165,10 +130,7 @@ else:
     print("Weak Password")
 
 
-# =========================
 # FINAL CHALLENGE
-# =========================
-
 s="madam"
 
 # Reverse
