@@ -25,3 +25,5 @@ Day 4: Conditional Statements and loop.
 Day 5: Question practice.
 Day 6: Functions in Python
 Day 7: srting with its questions.
+Day 8: List and question practice.
+
