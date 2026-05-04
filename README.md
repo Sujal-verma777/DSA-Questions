@@ -30,3 +30,5 @@ Day 9: Tuples and Sets.
 Day 10: Practice Day.
 Day 11: Dictionaries.
 Day 12: File Handling in Python.
+Day 13: Exception Handling.
+Day 14: Modules & Libraries.
